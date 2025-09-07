@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Rails 8 Info Hub",
+  "description": "An AI-powered application that provides the latest information and potential features of Ruby on Rails 8 using Google's Gemini API with search grounding for up-to-date insights.",
+  "requestFramePermissions": []
+}
